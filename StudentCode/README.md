@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(Feburary 24, 2017)
 
 ### Student Name:  
-(First and Last Name)
+( Carly Blakey)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment was to use if statements to determine which caluclation was run, as well as well as decalring variables)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (If statements run if the condition is true, or they will move to the else statement.)
+2. (A variable inside a function is called a parameter.)
+3. (If is the most common statement.)
